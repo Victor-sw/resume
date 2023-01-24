@@ -5,7 +5,7 @@ enableEmoji = true
 
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-baseURL = "https://Victor-sw.github.io/resume"
+baseURL = "https://victor-sw.github.io/resume/"
 title = "Example - CV"
 #googleAnalytics = ""
 
