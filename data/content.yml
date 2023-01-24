@@ -1,7 +1,7 @@
 BasicInfo:
   FirstName: Wen
   LastName: Song
-  Photo: img/avatar.jpg
+  Photo: img/personal.jpeg
   Contacts:
     - Icon: fas fa-map-marker-alt
       Info: Tokyo, Japan

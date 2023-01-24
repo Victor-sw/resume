@@ -3,7 +3,6 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 enableEmoji = true
 
-theme = "almeida-cv"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
 baseURL = "https://Victor-sw.github.io/resume"

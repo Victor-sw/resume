@@ -1,0 +1,9 @@
+.publication {
+    &__item {
+        @include avoid-break;
+    }
+    &__link {
+        text-decoration: none;
+        color: $color-dark;
+    }
+}
