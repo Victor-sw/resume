@@ -25,4 +25,4 @@ colorRightColumnIconPrimary = "#fff"
 colorRightColumnIconBackground = "#1DA1F2A0"
 pages = 1
 # Set this param to 'true' to swap the bar positions
-swapColumns = false
+swapColumns = true
