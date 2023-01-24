@@ -1,0 +1,129 @@
+BasicInfo:
+  FirstName: Wen
+  LastName: Song
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-map-marker-alt
+      Info: Tokyo, Japan
+    - Icon: fas fa-envelope
+      Info: sw9416waseda@gmail.com
+    - Icon: fas fa-phone
+      Info: 080-9061-0583
+    - Icon: fab fa-github
+      Info: <a class="contact__link" href="https://github.com/Victor-sw" target="_blank">github.com/Victor-sw</a> 
+    - Icon: fab fa-linkedin
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/wen-song-b63710144/" target="_blank">Linkedin</a>
+  
+
+# Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Experience:
+  - Employer: Indeed Japan K.K.
+    Place: Tokyo, Japan
+    Positions:
+      - Title: Software Developer
+        Date: 2022.04 - Present
+        Details:
+          - Develop a new tag for the company's mobile client to attract users to apply for suitable jobs
+          - Localized analysis and migration of the company's recommendation model
+          - Improve the characteristics of the company's existing machine learning models 
+        Badges: ['Data Analysis', 'Python', 'Logistic Regression', 'Java', 'Machine Learning']
+      # - Title: Software Tester
+      #   Date: Mar 2019 - Jan 2020
+      #   Details:
+      #     - Nisl tincidunt eget nullam non nisi est
+      #     - Sed viverra tellus in hac.
+      #     - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #   Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
+ 
+
+Education:
+  - Course: Ph.D. in Engineering in informatics
+    Place: Waseda University
+    Date: Sep 2017 - March 2022
+    Details: 
+      - Scholarship for Young Doctoral Students (2017-2019)
+
+  - Course: MSc in Engineering in informatics
+    Place: Waseda University
+    Date: Sep 2015 - Jun 2017
+    Details:  
+       - GPA of 3.8 / 4.0
+       - Waseda University special Scholarship (2015-2017) 
+       - Student Deputy Representative of Informatics Field (2017)
+    
+  - Course: Bachelor in Software Engineering
+    Place: Wuhan University
+    Date: Sep 2012 - Jun 2015
+    Details: 
+      - Second-class Scholarship of Wuhan University (2014)
+
+Publication:
+  - Title: Distributed-elite local search based on a genetic algorithm for bi-objective job-shop scheduling under time-of-use tariffs
+    Authors: Bobby Kurniawan, Wen Song, Wei Weng, Shigeru Fujimura
+    Conference: Evolutionary Intelligence, 2021
+    Link: https://link.springer.com/article/10.1007/s12065-020-00426-4
+  - Title: Capturing combination patterns of long-and short-term dependencies in multivariate time series forecasting
+    Authors: Wen Song, Shigeru Fujimura
+    Conference: Neurocomputing, 2021
+    Link: https://www.sciencedirect.com/science/article/abs/pii/S0925231221012972
+  - Title: Short-Term Electricity Consumption Forecasting Based on the Attentive Encoder-Decoder Model
+    Authors: Wen Song, Widyaning Chandramitasari, Wei Weng, Shigeru Fujimura
+    Conference: IEEJ Transactions on Electronics, Information and Systems, 2020
+    Link: https://www.jstage.jst.go.jp/article/ieejeiss/140/7/140_846/_article/-char/ja/
+  - Title: Abnormal data analysis in process industries using deep-learning method
+    Authors: Wen Song, Wei Weng, Shigeru Fujimura
+    Conference:  IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), 2017
+    Link: https://ieeexplore.ieee.org/abstract/document/8290313
+  - Title: Sensor Data Prediction in Process Industry by Capturing Mixed Length of Time Dependencies
+    Authors: Wen Song, Shigeru Fujimura
+    Conference: IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), 2021
+    Link: https://ieeexplore.ieee.org/abstract/document/9672826
+    
+
+# References:
+#   - Name: Person One
+#     Relation: Co-worker at Super Cool Company
+#     Contacts:
+#     - Icon: fas fa-phone
+#       Info: +44 123 456 790
+#     - Icon: fas fa-envelope
+#       Info: contact@person-one.com
+#     - Icon: fas fa-map-marker-alt
+#       Info: Melbourne, Australia
+
+
+Skills:
+  - Family: Programming Languages
+    Items:
+      - Python (PyTorch, sklearn, NumPy, Pandas, Matplotlib, Seaborn)
+      - Java (Spring)
+      - Javascript (React)
+      - SQL
+  - Family: Knowledge Field
+    Items:
+      - Machine Learning
+      - Deep Learning
+      - Time series modeling and anomaly detection
+      - Data Analysis
+ 
+
+Languages:
+  - Name: Chinese
+    Level: Native
+  - Name: English
+    Level: Professional
+  - Name: Japanese
+    Level: Conversational
+ 
+# Diplomas:
+#   - ISTQB Tester Certification (2019)
+#   - English Cambridge CAE (2009)
+
+# Interests:
+#   - Bouldering
+#   - Cooking
+#   - Windsurfing
+#   - Bossa Nova
+#   - Design
+#   - Languages
