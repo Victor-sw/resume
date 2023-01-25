@@ -9,7 +9,7 @@
         {{ range .Publication }}
             <div class="publication__item">
                 <h3 class="publication__title" >
-                    <a class="publication__link" href="{{ .Link | safeHTML }}"> 
+                    <a class="publication__link" href="{{ .Link | safeHTML }}" target="_blank"> 
                         {{ .Title | safeHTML }}
                     </a>
                 </h3>
