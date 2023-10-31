@@ -1,0 +1,41 @@
+{
+    "eventMetadata": {
+        "source": "MessagingGraphqlApiDaemon",
+        "id": "",
+        "namespace": null,
+        "type": "conversation-service",
+        "ingestTime": "2023-10-31T03:28:12.002Z",
+        "datacenter": null,
+        "country": null
+    },
+    "source": {
+        "version": "1.9.5.Final",
+        "connector": "mongodb",
+        "name": "convs-event-mongo-cdc",
+        "db": "db",
+        "collection": "eventStore",
+        "ts_ms": 1698722890000
+    },
+    "convsMessageEvent": {
+        "eventId": "45001bb2-5bff-41fc-bd64-543343b238e5",
+        "encryptedConversationId": "AAAAAf09M6qlF8cZYLhOyDQmNXYSbmHkWJr50srfReomzzcunhWEt7gSehFy6eKBS_85EjYtLe3dkOrxEBG1PCvU_rg=",
+        "owner": "1225974119",
+        "createdTime": 1698722890367,
+        "type": 2,
+        "status": null,
+        "recipients": [
+            {
+                "recipientId": "1160331138",
+                "reminder": null,
+                "relayStatus": null,
+                "role": 2
+            }
+        ],
+        "payload": {
+            "entries": []
+        },
+        "ownerRole": 1
+    },
+    "op": "CREATED",
+    "ts_ms": 1698722890526
+}

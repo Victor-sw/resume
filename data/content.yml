@@ -18,15 +18,17 @@ BasicInfo:
 # Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 Experience:
+  
   - Employer: Indeed Japan K.K.
     Place: Tokyo, Japan
     Positions:
       - Title: Software Developer
         Date: 2022.04 - Present
         Details:
-          - Develop a new tag for the company's mobile client to attract users to apply for suitable jobs
+          - Develop a new badge for the company's mobile client to attract users to apply for suitable jobs
           - Localized analysis and migration of the company's recommendation model
           - Improve the characteristics of the company's existing machine learning models 
+          - Transferred to Indeed Technologies Japan K.K. on 2023.04
         Badges: ['Data Analysis', 'Python', 'Logistic Regression', 'Java', 'Machine Learning']
       # - Title: Software Tester
       #   Date: Mar 2019 - Jan 2020
@@ -67,14 +69,14 @@ Publication:
     Authors: Wen Song, Shigeru Fujimura
     Conference: Neurocomputing, 2021
     Link: https://www.sciencedirect.com/science/article/abs/pii/S0925231221012972
-  - Title: Short-Term Electricity Consumption Forecasting Based on the Attentive Encoder-Decoder Model
-    Authors: Wen Song, Widyaning Chandramitasari, Wei Weng, Shigeru Fujimura
-    Conference: IEEJ Transactions on Electronics, Information and Systems, 2020
-    Link: https://www.jstage.jst.go.jp/article/ieejeiss/140/7/140_846/_article/-char/ja/
-  - Title: Abnormal data analysis in process industries using deep-learning method
-    Authors: Wen Song, Wei Weng, Shigeru Fujimura
-    Conference:  IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), 2017
-    Link: https://ieeexplore.ieee.org/abstract/document/8290313
+  # - Title: Short-Term Electricity Consumption Forecasting Based on the Attentive Encoder-Decoder Model
+  #   Authors: Wen Song, Widyaning Chandramitasari, Wei Weng, Shigeru Fujimura
+  #   Conference: IEEJ Transactions on Electronics, Information and Systems, 2020
+  #   Link: https://www.jstage.jst.go.jp/article/ieejeiss/140/7/140_846/_article/-char/ja/
+  # - Title: Abnormal data analysis in process industries using deep-learning method
+  #   Authors: Wen Song, Wei Weng, Shigeru Fujimura
+  #   Conference:  IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), 2017
+  #   Link: https://ieeexplore.ieee.org/abstract/document/8290313
   - Title: Sensor Data Prediction in Process Industry by Capturing Mixed Length of Time Dependencies
     Authors: Wen Song, Shigeru Fujimura
     Conference: IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), 2021
